@@ -1,0 +1,7 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#dedede"/>
+  <rect x="130" y="110" width="140" height="95" rx="8" fill="#a8a8a8"/>
+  <rect x="155" y="95" width="35" height="20" rx="4" fill="#a8a8a8"/>
+  <circle cx="200" cy="158" r="30" fill="#dedede" stroke="#7d7d7d" stroke-width="6"/>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7d7d7d" letter-spacing="2">SAMPLE PHOTO 2</text>
+</svg>
